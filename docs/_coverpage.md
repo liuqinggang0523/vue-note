@@ -9,5 +9,5 @@
 * 无奋斗不青春
 * 只争朝夕，不负韶华
 
-[进入笔记]https://liuqinggang0523.github.io/vue-note/#/one)
+[进入笔记](https://liuqinggang0523.github.io/vue-note/#/one)
 [Git Hub](https://github.com/liuqinggang0523/)
